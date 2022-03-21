@@ -1,1 +1,3 @@
-# Civilization_game
+# Prosta gra o motywie rozwoju cywilizacji napisana w języku C#  
+*Opis gry:*  
+Gra polega na rozwijaniu miasta. Rozbudowywuje się je dzięki ulepszaniu budowli, zdobywaniu surowców, a także pozyskiwaniu wojska. Aby ulepszyć budynek lub nabyć wojsko wydaje się surowce. Czas ich produkcji można przyśpieszyć ulepszając odpowednie budowle. Surowce można wymieniać. Budowle ulepsza się do 3. poziomu. Poziom ulepszenia muru ma wpływ na ilość zniszczeń wśród wojska, a także na plądrownie zasobów. Rabunki sygnalizowane są czerwonym kolorem w okienkach informujących o ilości zasobów w magazynie i koszarach.
