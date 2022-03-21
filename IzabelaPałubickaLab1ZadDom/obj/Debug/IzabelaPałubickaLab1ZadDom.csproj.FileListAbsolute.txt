@@ -1,0 +1,11 @@
+C:\Users\Iza\Documents\Studia\KN Kredek - C#\izabela_palubicka_cpc2021-1\laboratorium 1\zadanie domowe\IzabelaPałubickaLab1ZadDom\bin\Debug\IzabelaPałubickaLab1ZadDom.exe.config
+C:\Users\Iza\Documents\Studia\KN Kredek - C#\izabela_palubicka_cpc2021-1\laboratorium 1\zadanie domowe\IzabelaPałubickaLab1ZadDom\bin\Debug\IzabelaPałubickaLab1ZadDom.exe
+C:\Users\Iza\Documents\Studia\KN Kredek - C#\izabela_palubicka_cpc2021-1\laboratorium 1\zadanie domowe\IzabelaPałubickaLab1ZadDom\bin\Debug\IzabelaPałubickaLab1ZadDom.pdb
+C:\Users\Iza\Documents\Studia\KN Kredek - C#\izabela_palubicka_cpc2021-1\laboratorium 1\zadanie domowe\IzabelaPałubickaLab1ZadDom\obj\Debug\IzabelaPałubickaLab1ZadDom.FormMenu.resources
+C:\Users\Iza\Documents\Studia\KN Kredek - C#\izabela_palubicka_cpc2021-1\laboratorium 1\zadanie domowe\IzabelaPałubickaLab1ZadDom\obj\Debug\IzabelaPałubickaLab1ZadDom.Properties.Resources.resources
+C:\Users\Iza\Documents\Studia\KN Kredek - C#\izabela_palubicka_cpc2021-1\laboratorium 1\zadanie domowe\IzabelaPałubickaLab1ZadDom\obj\Debug\IzabelaPałubickaLab1ZadDom.csproj.GenerateResource.cache
+C:\Users\Iza\Documents\Studia\KN Kredek - C#\izabela_palubicka_cpc2021-1\laboratorium 1\zadanie domowe\IzabelaPałubickaLab1ZadDom\obj\Debug\IzabelaPałubickaLab1ZadDom.exe
+C:\Users\Iza\Documents\Studia\KN Kredek - C#\izabela_palubicka_cpc2021-1\laboratorium 1\zadanie domowe\IzabelaPałubickaLab1ZadDom\obj\Debug\IzabelaPałubickaLab1ZadDom.pdb
+C:\Users\Iza\Documents\Studia\KN Kredek - C#\izabela_palubicka_cpc2021-1\laboratorium 1\zadanie domowe\IzabelaPałubickaLab1ZadDom\obj\Debug\IzabelaPałubickaLab1ZadDom.FormGame.resources
+C:\Users\Iza\Documents\Studia\KN Kredek - C#\izabela_palubicka_cpc2021-1\laboratorium 1\zadanie domowe\IzabelaPałubickaLab1ZadDom\obj\Debug\IzabelaPałubickaLab1ZadDom.csprojAssemblyReference.cache
+C:\Users\Iza\Documents\Studia\KN Kredek - C#\izabela_palubicka_cpc2021-1\laboratorium 1\zadanie domowe\IzabelaPałubickaLab1ZadDom\obj\Debug\IzabelaPałubickaLab1ZadDom.csproj.CoreCompileInputs.cache
